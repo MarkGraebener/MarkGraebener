@@ -3,7 +3,7 @@
 
 <div align="center">
   Visit me on:<br>
-  <a href="https://www.linkedin.com/in/jason-comstock-78781212b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="JMComstock"></a>
+  <a href="https://www.linkedin.com/in/mark-graebener-00787832/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="JMComstock"></a>
    <br>
   <hr>
   <br>
